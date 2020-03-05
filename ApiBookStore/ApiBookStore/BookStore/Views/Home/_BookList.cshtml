@@ -1,0 +1,29 @@
+﻿
+@model  IEnumerable<BookStore.Models.BookModel>
+<div class="panel-body">
+    <div class="task-content">
+        <ul class="task-list">
+            @foreach (var item in Model)
+            {
+                <li>
+                    <div class="task-title">
+                        @Html.Label("BookName", @item.Name) <br />
+                        <span class="additional-info">
+                            Author: @Html.Label("AuthorName", @item.AuthorName) <br />
+                            Genge: @Html.Label("Genre", @item.GenreName) <br />
+                            Publishing Home: @Html.Label("PublishingHome", @item.PublishingHomeName) <br />
+                            Establishment Year: @Html.Label("Year", @item.Year.ToString())
+                        </span>
+                        <div class="pull-right">                        
+                            <a href="@Url.Action("EditBook", "Home", new { id = item.ID })" class="btn btn-primary btn-xs editBook"><i class="fa fa-pencil"></i></a>
+                            <button id=@item.ID type="button" onclick="deleteTask(this.id)" class="btn btn-danger btn-xs deleteBook"><i class="fa fa-trash-o"></i></button>
+                        </div>
+                    </div>
+
+                </li>
+            }
+
+        </ul>
+    </div>
+
+</div>

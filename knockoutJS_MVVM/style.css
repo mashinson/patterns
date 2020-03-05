@@ -1,0 +1,28 @@
+.itemName {}
+
+.itemPrice {
+  text-align: center
+}
+
+.coolButton {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  padding: 1px 1px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.coolButton:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.addToCart {
+  font-size: 10px;
+  width: 90%;
+}
+
+.addToCartCount {}

@@ -1,0 +1,31 @@
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\bin\Debug\FindFoxes.exe.config
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.exe
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.pdb
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\WinFormsFindFoxes.csprojResolveAssemblyReference.cache
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmGame.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmMenu.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmReference.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.Properties.Resources.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmSetLevelGame.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmWinLose.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\WinFormsFindFoxes.csproj.GenerateResource.Cache
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\bin\Debug\FindFoxes.exe
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\bin\Debug\FindFoxes.pdb
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\bin\Debug\FoxLibrary.dll
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\bin\Debug\FoxLibrary.pdb
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\bin\Debug\FindFoxes.exe.config
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\bin\Debug\FindFoxes.exe
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\bin\Debug\FindFoxes.pdb
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\bin\Debug\FoxLibrary.dll
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\bin\Debug\FoxLibrary.pdb
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\WinFormsFindFoxes.csprojAssemblyReference.cache
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\FindFoxes.frmGame.resources
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\FindFoxes.frmMenu.resources
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\FindFoxes.frmReference.resources
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\FindFoxes.Properties.Resources.resources
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\FindFoxes.frmSetLevelGame.resources
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\FindFoxes.frmWinLose.resources
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\WinFormsFindFoxes.csproj.GenerateResource.cache
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\WinFormsFindFoxes.csproj.CopyComplete
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\FindFoxes.exe
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FindFoxes\obj\Debug\FindFoxes.pdb

@@ -1,0 +1,10 @@
+C:\Users\Gena\Desktop\FindFoxes\FoxLibrary\bin\Debug\FoxLibrary.dll
+C:\Users\Gena\Desktop\FindFoxes\FoxLibrary\bin\Debug\FoxLibrary.pdb
+C:\Users\Gena\Desktop\FindFoxes\FoxLibrary\obj\Debug\FoxLibrary.dll
+C:\Users\Gena\Desktop\FindFoxes\FoxLibrary\obj\Debug\FoxLibrary.pdb
+C:\Users\Gena\Desktop\FindFoxes\FoxLibrary\obj\Debug\FoxLibrary.csprojResolveAssemblyReference.cache
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FoxLibrary\bin\Debug\FoxLibrary.dll
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FoxLibrary\bin\Debug\FoxLibrary.pdb
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FoxLibrary\obj\Debug\FoxLibrary.csprojAssemblyReference.cache
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FoxLibrary\obj\Debug\FoxLibrary.dll
+E:\оут2\courses\проект_финал\FindFoxes пятая версия\FoxLibrary\obj\Debug\FoxLibrary.pdb

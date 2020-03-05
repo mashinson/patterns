@@ -1,0 +1,18 @@
+﻿@model  BookStore.Models.BookFilterModel
+@using (Ajax.BeginForm("_BookList", "Home", new AjaxOptions { HttpMethod = "POST", UpdateTargetId = "book-content", InsertionMode = InsertionMode.Replace }))
+{
+    @Html.AntiForgeryToken()
+    <div class="col-xs-3">
+        @Html.DropDownListFor(m => m.Genre, Model.Genres, new { @class = "form-control", onchange = "$(this.form).submit()" })
+    </div>
+    <div class="col-xs-3">
+        @Html.DropDownListFor(m => m.Author, Model.Authors, new { @class = "form-control", onchange = "$(this.form).submit()" })
+    </div>
+    <div class="col-xs-3">
+        @Html.DropDownListFor(m => m.PublishingHouse, Model.PublishingHouses, new { @class = "form-control", onchange = "$(this.form).submit()" })
+    </div>
+    <div class="col-xs-3">
+        @Html.TextBoxFor(m => m.CreationDate, new {@class = "form-control", @placeholder="Year", onchange = "$(this.form).submit()" })
+    </div>
+}
+

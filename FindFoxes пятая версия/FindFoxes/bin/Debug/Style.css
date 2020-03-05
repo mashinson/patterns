@@ -1,0 +1,53 @@
+html{
+    font-size: 2rem;
+    /*background-image: url(pictures/fongrass.jpg);
+    background-size: cover; */
+    background-color: darkcyan;
+    color: black;
+}
+ .layer1 {
+    float: left; /* Обтекание по правому краю */
+    width: 600px; /* Ширина слоя */
+   
+   }
+   .layer2 {
+    width: 500px; /* Ширина слоя */
+    float: left; /* Обтекание по правому краю */  
+   }
+   .clear {
+    clear: left; /* Отмена обтекания */
+   }
+.text{
+    border: 16px double darkblue;
+
+    padding: 5px; /* Поля вокруг текста */
+    /*opacity: 0.6; */
+    background-color: white; 
+   }
+.flowRight {
+	float: right;
+	margin-left: 10px;
+}
+.flowLeft {
+	float: left;
+	margin-right: 10px;
+}
+
+.flowCenter{
+	text-align: center;
+	margin-right: 10px;
+}
+h1 {
+	font: 1.6em Verdana, Geneva, sans-serif;
+	margin-bottom: .4em;
+	color: violet;
+}
+
+h2 {
+	font: 1.6em Verdana, Geneva, sans-serif;
+	margin-bottom: .4em;
+	color: darkblue;
+}
+.borderStyle{
+    border: 6px solid darkblue;
+}

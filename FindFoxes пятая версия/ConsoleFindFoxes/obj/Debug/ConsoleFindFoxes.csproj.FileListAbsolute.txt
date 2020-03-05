@@ -1,0 +1,8 @@
+C:\Users\Gena\Desktop\FindFoxes\ConsoleFindFoxes\obj\Debug\ConsoleFindFoxes.csprojResolveAssemblyReference.cache
+C:\Users\Gena\Desktop\FindFoxes\ConsoleFindFoxes\bin\Debug\ConsoleFindFoxes.exe.config
+C:\Users\Gena\Desktop\FindFoxes\ConsoleFindFoxes\bin\Debug\ConsoleFindFoxes.exe
+C:\Users\Gena\Desktop\FindFoxes\ConsoleFindFoxes\bin\Debug\ConsoleFindFoxes.pdb
+C:\Users\Gena\Desktop\FindFoxes\ConsoleFindFoxes\bin\Debug\FoxLibrary.dll
+C:\Users\Gena\Desktop\FindFoxes\ConsoleFindFoxes\bin\Debug\FoxLibrary.pdb
+C:\Users\Gena\Desktop\FindFoxes\ConsoleFindFoxes\obj\Debug\ConsoleFindFoxes.exe
+C:\Users\Gena\Desktop\FindFoxes\ConsoleFindFoxes\obj\Debug\ConsoleFindFoxes.pdb

@@ -1,0 +1,28 @@
+.text_align_center {
+    text-align: center !important;
+}
+
+.valign_middle {
+    vertical-align: middle !important;
+}
+
+.long_word_fix {
+    table-layout: fixed;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.custom-header-style {
+    font-weight: 500 !important;
+    color: black !important;
+    -webkit-text-shadow: none !important;
+    text-shadow: none !important;
+    vertical-align: middle !important;
+}
+
+.mtop20 { margin-top: 20px;}
+
+.edit_account_hr {
+    border-top: 1px solid #faa62c;
+    border-bottom: 1px solid #faa62c;
+}

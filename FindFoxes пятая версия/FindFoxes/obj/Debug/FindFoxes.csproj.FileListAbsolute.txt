@@ -1,0 +1,13 @@
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\bin\Debug\FindFoxes.exe.config
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\bin\Debug\FindFoxes.exe
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\bin\Debug\FindFoxes.pdb
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.csprojResolveAssemblyReference.cache
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.Properties.Resources.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.csproj.GenerateResource.Cache
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.exe
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.pdb
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmGame.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmMenu.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmReference.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmWinLose.resources
+C:\Users\Gena\Desktop\FindFoxes\FindFoxes\obj\Debug\FindFoxes.frmSetLevelGame.resources

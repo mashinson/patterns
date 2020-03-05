@@ -1,0 +1,20 @@
+﻿
+@section scripts {
+    <script src="@Url.Content("~/Scripts/Books.js ")"></script>
+    <script src="@Url.Content("~/Scripts/jquery.unobtrusive-ajax.js")"></script>
+}
+    <div>
+        <h3 class="text-center">Book catalog</h3>
+        <a href="@Url.Action("CreateBook", "Home")" class="btn btn-success btn-lg">Add Book</a>
+    </div>
+
+<div id="filter-block" class="row" data-request-url="@Url.Action("_BookFilters", "Home")">
+    @Html.Partial("_BookFilters", new BookStore.Models.BookFilterModel())
+</div>
+<div id="book-content" data-request-url="@Url.Action("_BookList", "Home")">
+    @Html.Partial("_BookList", new List<BookStore.Models.BookModel>())
+</div>
+
+
+
+

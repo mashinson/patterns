@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsFindFoxes", "FindFoxes\WinFormsFindFoxes.csproj", "{8EF0750C-E79B-405A-BFA3-24AB69D3A47E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxLibrary", "FoxLibrary\FoxLibrary.csproj", "{9E79B32F-766F-4790-A96A-7DE7DA7C0A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleFindFoxes", "ConsoleFindFoxes\ConsoleFindFoxes.csproj", "{14036F77-9332-4B32-9008-1065CED20A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF0750C-E79B-405A-BFA3-24AB69D3A47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF0750C-E79B-405A-BFA3-24AB69D3A47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF0750C-E79B-405A-BFA3-24AB69D3A47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF0750C-E79B-405A-BFA3-24AB69D3A47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E79B32F-766F-4790-A96A-7DE7DA7C0A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E79B32F-766F-4790-A96A-7DE7DA7C0A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E79B32F-766F-4790-A96A-7DE7DA7C0A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E79B32F-766F-4790-A96A-7DE7DA7C0A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14036F77-9332-4B32-9008-1065CED20A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14036F77-9332-4B32-9008-1065CED20A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14036F77-9332-4B32-9008-1065CED20A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14036F77-9332-4B32-9008-1065CED20A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\паттерны\Factorymethod\Factorymethod\obj\Debug\Factorymethod.csprojAssemblyReference.cache
+C:\Users\User\Desktop\паттерны\Factorymethod\Factorymethod\bin\Debug\Factorymethod.exe.config
+C:\Users\User\Desktop\паттерны\Factorymethod\Factorymethod\bin\Debug\Factorymethod.exe
+C:\Users\User\Desktop\паттерны\Factorymethod\Factorymethod\bin\Debug\Factorymethod.pdb
+C:\Users\User\Desktop\паттерны\Factorymethod\Factorymethod\obj\Debug\Factorymethod.exe
+C:\Users\User\Desktop\паттерны\Factorymethod\Factorymethod\obj\Debug\Factorymethod.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\паттерны\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\User\Desktop\паттерны\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Users\User\Desktop\паттерны\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Users\User\Desktop\паттерны\Iterator\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\паттерны\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Users\User\Desktop\паттерны\Iterator\Iterator\obj\Debug\Iterator.pdb
